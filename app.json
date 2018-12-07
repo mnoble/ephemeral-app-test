@@ -1,5 +1,10 @@
 {
   "name": "Ephemeral App Test",
+  "buildpacks": [
+    {
+      "url": "https://github.com/heroku/heroku-buildpack-static.git"
+    }
+  ],
   "addons": [
     "sentry"
   ]
