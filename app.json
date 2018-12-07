@@ -1,0 +1,6 @@
+{
+  "name": "Ephemeral App Test",
+  "addons": [
+    "sentry"
+  ]
+}
